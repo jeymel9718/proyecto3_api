@@ -1,0 +1,13 @@
+{
+  "name": "Proyecto3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@sanity/client": "^0.140.32",
+    "mongoose": "^5.6.0"
+  },
+  "devDependencies": {}
+}
