@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@sanity/client": "^0.140.32",
-    "mongoose": "^5.6.0"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {}
 }
